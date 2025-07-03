@@ -16,16 +16,16 @@ about:
 
 Hello! 
 
-I am a third year Ph.D. student in Public Policy (Economics Track) at Harvard University. 
+I am a third-year Ph.D. student in Public Policy (Economics Track) at Harvard University, and a PhD Affiliate at the [Center for International Development (CID)](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/germ%C3%A1n-david-orbegozo-rodr%C3%ADguez).
 
 I am interested in Political Economy, Behavioral and Development Economics.
+
+*My name is pronounced like “her-MAHN.”*
 
 <hr class="section-divider">
 
 
 ## Work in Progress
-
-::: publication
 
 ### Stigma and Vocational Education  
 *with Santiago Pérez‑Cardona* | [PDF](/content/pdf/stigma-paper.pdf)
@@ -46,5 +46,3 @@ This paper studies students’ level‑of‑education choice—specifically, how
 Why do advocates and activists often avoid arguments they know are more persuasive? In partnership with a vegan advocacy organization, this project shows that individuals frequently forgo effective messages because those arguments feel misaligned with their social group or personal identity. Activists select arguments for a real campaign under varying incentive, visibility, and identity‑prime conditions. Despite clear evidence on which messages work best, many avoid them when choices are public or when primed to reflect on core values. A follow‑up experiment with non‑vegans measures the persuasive impact of these choices. Results reveal how identity concerns distort communication and identify interventions that improve message selection and bridge ideological divides.
 
 </details>
-
-:::
