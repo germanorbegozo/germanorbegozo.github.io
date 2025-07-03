@@ -9,15 +9,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: teaching.qmd
-        text: Teaching
 
 format:
   html:
     theme:
       - cosmo
       - brand
-      - harvard.scss
     css: styles.css
     toc: true
 
