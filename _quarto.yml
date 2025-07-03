@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Germán Orbegozo"
+  title: "Germán D. Orbegozo-Rodríguez"
   search: false
   navbar:
     background: "#FFFF"
