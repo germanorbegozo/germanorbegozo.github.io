@@ -28,7 +28,7 @@ I am interested in Political Economy, Behavioral and Development Economics.
 ::: publication
 
 ### Stigma and Vocational Education  
-*with Santiago Pérez‑Cardona* | [PDF](/content/pdf/rosetta_stone.pdf)
+*with Santiago Pérez‑Cardona* | [PDF](/content/pdf/stigma-paper.pdf)
 
 <details>
 <summary>Abstract</summary>
@@ -38,7 +38,7 @@ This paper studies students’ level‑of‑education choice—specifically, how
 </details>
 
 ### Persuasion Failures, Social Image, and Identity  
-[PDF](/content/pdf/stigma_paper.pdf)
+[PDF](/content/pdf/persuasion_draft.pdf)
 
 <details>
 <summary>Abstract</summary>
