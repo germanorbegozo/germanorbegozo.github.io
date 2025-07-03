@@ -11,7 +11,7 @@ about:
       url: https://github.com/github
     - icon: twitter
       text: twitter
-      url: https://twitter.com/your_twitter_handlet
+      url: https://x.com/germanorbegozo
 ---
 
 Lorem ipsum doslor sit amet, consectetur adipiscing elit. Integer fermentum, libero vitae consequat feugiat, lacus nisl accumsan nisi, nec posuere libero urna vel risus. Aen  ean euismod, justo non porta tincidunt, erat erat rutrum mi, vitae iaculis lorem sapien nec nisl. Sed nec nunc vitae nunc blandit placerat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec fermentum, lacus sed tristique dapibus, magna arcu scelerisque odio, non aliquam sapien magna ac ante. Nulla facilisi. Suspendisse potenti.
