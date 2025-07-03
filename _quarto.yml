@@ -1,18 +1,23 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Germán D. Orbegozo-Rodríguez"
+  title: "Germán Orbegozo"
+  search: false
   navbar:
+    background: "#FFFF"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: teaching.qmd
+        text: Teaching
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - brand
+      - harvard.scss
     css: styles.css
     toc: true
 
