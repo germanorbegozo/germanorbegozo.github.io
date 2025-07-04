@@ -16,7 +16,7 @@ about:
 
 Hello! 
 
-I am a third-year Ph.D. student in Public Policy (Economics Track) at Harvard University, and a PhD Affiliate at the [Center for International Development (CID)](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/germ%C3%A1n-david-orbegozo-rodr%C3%ADguez).
+I am a Colombian third-year Ph.D. student in Public Policy (Economics Track) at Harvard University, and a PhD Affiliate at the [Center for International Development (CID)](https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/germ%C3%A1n-david-orbegozo-rodr%C3%ADguez).
 
 I am interested in Political Economy, Behavioral and Development Economics.
 
@@ -27,7 +27,7 @@ I am interested in Political Economy, Behavioral and Development Economics.
 
 ## Work in Progress
 
-### Stigma and Vocational Education  
+### Beliefs, Status, and the Demand for Technical and Associate Degrees in Colombia 
 *with Santiago Pérez‑Cardona* | [PDF](/content/pdf/stigma-paper.pdf)
 
 <details>
