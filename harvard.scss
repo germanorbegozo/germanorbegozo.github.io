@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+$link-color: #A51C30;
+$link-hover-color: darken(#A51C30, 5%);
+
+/*-- scss:rules --*/
+.section-divider {
+  border: 0;
+  height: 2px;
+  background-color: #A51C30;
+  margin: 2rem 0;
+}

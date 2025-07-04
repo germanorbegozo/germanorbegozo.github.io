@@ -1,5 +1,5 @@
 ---
-title: "Germán D. Orbegozo-Orbegozo"
+title: "Germán D. <br> Orbegozo-Orbegozo"
 subtitle: "Harvard University"
 image: /files/img/profile.jpg
 toc: false

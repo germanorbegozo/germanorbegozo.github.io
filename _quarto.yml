@@ -7,17 +7,14 @@ website:
   search: false
   navbar:
     background: "#FFFF"
-    left:
-      - href: index.qmd
-        text: Home
 
 format:
   html:
     theme:
       - cosmo
       - brand
+      - harvard.scss
     css: styles.css
     toc: true
-
 
 
