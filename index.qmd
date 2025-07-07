@@ -69,3 +69,10 @@ Why do advocates and activists often avoid arguments they know are more persuasi
 I study the causal effect of violence against social leaders on coca cultivation and land restitution requests in the Colombian context from 2012 to 2018. Using the timing of unexpected killings of social leaders in an event study approach, I provide evidence that the start of the violence against social leaders increases hectares of coca by a magnitude of at least 0.27 standard deviations and reduces land restitution requests by a magnitude of at least 0.29 standard deviations, both in the medium term. As more leaders get killed, the effect becomes larger over time. Attempts to kill social leaders have a similar impact on the outcomes. I provide evidence that suggests that this effect is driven by the deterioration of the collective action capacity of civil society, which is depreciated as more violence is exerted on social leaders.
 
 </details>
+
+
+<hr class="section-divider">
+
+## <span class="section-title">CV
+
+You can view or download my full CV [here](/files/pdf/CV_Orbegozo_2025_07.pdf).
