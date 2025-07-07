@@ -6,11 +6,16 @@ toc: false
 about:
   template: trestles
   links:
-    #- icon: github
-    #  text: Github
-    #  url: https://github.com/github
+    - icon: envelope          # email icon
+      text: Email
+      url: "gorbegozo@g.harvard.edu"
+
+    - icon: linkedin          # LinkedIn icon (Font Awesome name)
+      text: LinkedIn
+      url: https://www.linkedin.com/in/germ%C3%A1n-david-orbegozo-rodr%C3%ADguez-bb5697106/
+
     - icon: twitter
-      text: twitter
+      text: Twitter
       url: https://x.com/germanorbegozo
 ---
 
@@ -25,24 +30,42 @@ I am interested in Political Economy, Behavioral and Development Economics.
 <hr class="section-divider">
 
 
-## Work in Progress
+## <span class="section-title">Work in Progress
 
-### Beliefs, Status, and the Demand for Technical and Associate Degrees in Colombia 
-*with Santiago Pérez‑Cardona* | [PDF](/content/pdf/stigma-paper.pdf)
+### Beliefs, Status, and the Demand for Technical and Associate Degrees in Colombia  
+*with Santiago Pérez‑Cardona* 
 
+<!--
 <details>
 <summary>Abstract</summary>
 
 This paper studies students’ level‑of‑education choice—specifically, how they choose among technical, associate, and university programs within a tiered post‑secondary system. We combine administrative application data with a belief‑elicitation survey among Bogotá high‑school students. A structural model links choices to beliefs about returns, non‑monetary outcomes, and social status. We find that technical and associate degrees are systematically penalized, even when expected returns match those of university programs. A survey experiment shows that students update when presented with accurate returns, but stigma and social‑image concerns weaken responsiveness. Addressing these concerns is essential for expanding uptake of short‑cycle programs.
 
 </details>
+-->
 
 ### Persuasion Failures, Social Image, and Identity  
-[PDF](/content/pdf/persuasion_draft.pdf)
+<!-- no PDF available -->
 
+<!--
 <details>
 <summary>Abstract</summary>
 
 Why do advocates and activists often avoid arguments they know are more persuasive? In partnership with a vegan advocacy organization, this project shows that individuals frequently forgo effective messages because those arguments feel misaligned with their social group or personal identity. Activists select arguments for a real campaign under varying incentive, visibility, and identity‑prime conditions. Despite clear evidence on which messages work best, many avoid them when choices are public or when primed to reflect on core values. A follow‑up experiment with non‑vegans measures the persuasive impact of these choices. Results reveal how identity concerns distort communication and identify interventions that improve message selection and bridge ideological divides.
+
+</details>
+-->
+
+<hr class="section-divider">
+
+## <span class="section-title">Pre-doctoral Work
+
+### Consequences of Violence Against Social Leaders in Colombia  
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873534) | [PDF](/files/pdf/social-leaders-violence-2021.pdf)
+
+<details>
+<summary>Abstract</summary>
+
+I study the causal effect of violence against social leaders on coca cultivation and land restitution requests in the Colombian context from 2012 to 2018. Using the timing of unexpected killings of social leaders in an event study approach, I provide evidence that the start of the violence against social leaders increases hectares of coca by a magnitude of at least 0.27 standard deviations and reduces land restitution requests by a magnitude of at least 0.29 standard deviations, both in the medium term. As more leaders get killed, the effect becomes larger over time. Attempts to kill social leaders have a similar impact on the outcomes. I provide evidence that suggests that this effect is driven by the deterioration of the collective action capacity of civil society, which is depreciated as more violence is exerted on social leaders.
 
 </details>
