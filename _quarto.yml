@@ -7,7 +7,7 @@ website:
   search: false
   navbar:
     background: "#FFFF"
-    
+  
 
 format:
   html:
@@ -19,3 +19,5 @@ format:
     toc: true
 
 
+resources:
+  - google08b9ea68848866c5.html
