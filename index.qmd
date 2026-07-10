@@ -40,9 +40,7 @@ You can view or download my full CV [here](/files/pdf/CV_Orbegozo_2026_01.pdf).
 
 ## <span class="section-title">Work in Progress
 
-### Algorithmic Media Diet and Educational Choice  
-*with Santiago Pérez‑Cardona* 
-
+### The Supply Side of Persuasion: Rhetorical Choice in Advocacy Organizations
 <!--
 <details>
 <summary>Abstract</summary>
@@ -52,7 +50,7 @@ This paper studies students’ level‑of‑education choice—specifically, how
 </details>
 -->
 
-### The Supply Side of Persuasion 
+### Online Persuasion under Imperfect Targeting
 <!-- no PDF available -->
 
 <!--
